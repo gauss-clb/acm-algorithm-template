@@ -21,4 +21,14 @@
 
 如果觉得本模板有用，欢迎打赏
 
-![微信](https://github.com/gauss-clb/gauss-clb.github.io/blob/master/pay/weixin.png)
+微信
+<img src="weixin.png" alt="微信" width="224" height="224" />
+
+支付宝
+<img src="weixin.png" alt="支付宝" width="224" height="224" />
+
+
+
+<img src="https://github.com/gauss-clb/gauss-clb.github.io/blob/master/pay/weixin.png" alt="微信" width="224" height="224" />
+
+<img src="https://github.com/gauss-clb/gauss-clb.github.io/blob/master/pay/alipay.png" alt="支付宝" width="224" height="224" />
