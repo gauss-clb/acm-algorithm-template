@@ -18,6 +18,7 @@
 * 所有下载本模板的选手应尊重作者本人的著作权，禁止上传其它网站赚取积分等利益，例如csdn或者百度文库等
 
 ### 打赏
+
 如果觉得本模板有用，欢迎打赏
-![支付宝](https://github.com/gauss-clb/gauss-clb.github.io/blob/master/pay/alipay.png)
+
 ![微信](https://github.com/gauss-clb/gauss-clb.github.io/blob/master/pay/weixin.png)
