@@ -1,5 +1,5 @@
 # acm算法模板
-**全部内容请参考 acm-template.pdf**
+~~全部内容请参考 acm-template.pdf~~
 
 ps: 上面版本是2016年导出的，后面研究生划水又加了点东西，例如KD-Tree, FWT等等, 详见**完整版.pdf**
 
